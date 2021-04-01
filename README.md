@@ -1,6 +1,6 @@
 - 👋 Holla, here I am @firmanhusni
 - 👀 I’m interested in data science and machine learning implementation in real life especially in sustainable energy industry
-- 🌱 I’m currently learning tensorflow and javascript
+- 🌱 I’m currently learning tensorflow and javascript in addition to my python skill
 - 💞️ I’m looking to collaborate on building webapp machine learning things
 - 📫 I'm available on firmanhusni@gmail.com
 
